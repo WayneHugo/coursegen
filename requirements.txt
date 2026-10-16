@@ -1,0 +1,4 @@
+anthropic>=1.15
+pydantic>=2.7
+edge-tts>=7.0
+# optional offline voice: piper-tts>=1.3
